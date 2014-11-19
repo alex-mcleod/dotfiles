@@ -6,4 +6,4 @@ Inspired by https://github.com/aaronholbrook/dotfiles and http://natelandau.com/
 
 Run the following command: 
 
-`wget -q -O - "$@" https://raw.github.com/alex-mcleod/dotfiles/master/bash_profile > ~/.bash_profile`
+`wget -q -O - "$@" https://raw.githubusercontent.com/alex-mcleod/dotfiles/master/.bash_profile > ~/.bash_profile`
